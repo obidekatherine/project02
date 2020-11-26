@@ -72,7 +72,7 @@ acronym {
 
 mark,
 ins {
-	background: #fff9c0;
+	background: #483D8B;
 	text-decoration: none;
 }
 
@@ -111,7 +111,7 @@ body {
 
 .masthead {
     padding: 1em 2em;
-    background-color: #0D1B2E;
+    background-color: #D2691E;
     color: white;
 }
 
@@ -122,7 +122,7 @@ body {
 .intro {
     padding: 2em 2em;
     color: #ffffff;
-    background: #429890;
+    background: #8B0000;
 }
 
 
@@ -145,7 +145,7 @@ body {
 #origin-text {
     margin: 1em 0;
     padding: 1em 1em 0;
-    background-color: #ededed;
+    background-color: #A0522D;
 }
 
 #origin-text p {
@@ -179,11 +179,11 @@ body {
     font-size: 1.2em;
     font-weight: bold;
     color: #E95D0F;
-    background: white ;
-    border: 10px solid #E95D0F;
+    background: black ;
+    border: 10px solid #483D8B;
 }
 
 #reset:hover {
-    color: white;
+    color: black;
     background-color: #E95D0F;
 }
